@@ -10,9 +10,9 @@ You need to edit your login daemons pam file. I use Linux Mint over Gnome3(not m
 I prepended this line 
 auth sufficient pam_listfile.so item=user file=/path/to/userAuthFile sense=allow onerr=succeed
 
-What that does is it tells PAM when it authenticates against the gdm daemon to allow automatic login and access to the desktop/user if the user is in the specified auth file. Arguments can be passed to the methods of my tail class to prevent such a thing if you desire.
-
 to my gdm-password file. Read here for a breakdown of this pam SO file http://linux.die.net/man/8/pam_listfile
+
+What that does is it tells PAM when it authenticates against the gdm daemon to allow automatic login and access to the desktop/user if the user is in the specified auth file. Arguments can be passed to the methods of my tail class to prevent such a thing if you desire.
 
 googles GeoLocation API for Ruby https://developers.google.com/api-client-library/ruby/start/get_started
 
