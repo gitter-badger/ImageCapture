@@ -26,7 +26,7 @@ Here is watirs site http://watirwebdriver.com/chrome/
 
 here is the dir that the webdriver binary reside in http://chromedriver.storage.googleapis.com/index.html
 
-Watir is pretty cool! It opens your browser with the supplied url, then closes if specified.
+Watir is pretty cool! It opens your browser with the supplied url, then closes if specified. It also does a lot of other cool stuff too!
 
 
 DEPENDENCIES TO GET CHROME TO LAUNCH FROM THE COMMAND LINE
