@@ -6,4 +6,6 @@
 
 3) Check for internet connection
 
-4) ...
+4) Reroute login to guest desktop. Through Ruby Gnome dbus API or gdm greeter source mod.
+
+5)...
