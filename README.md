@@ -20,7 +20,7 @@ I am renting a web space from a host and have built a page to log geolocation. I
 
 The Ruby program opens your broswer with my site and your location is emailed within seconds. The Ruby program then closes the tab. So you have no clue that this just happened.
 
-The program is run as root and in order to run chrome from the command line as root, you need to pass it the --user-data-dir switch. You must point it to a non-root directory. You also need the chrome webdriver binary and add it to your path. Then copy to /usr/bin or where ever you want/need to place it. 
+The program is run as root and in order to run chrome from the command line as root, you need to pass it the --user-data-dir switch. You must point it to a non-root directory.(Already taken care of for you in my program) You also need the chrome webdriver binary and add it to your path. Then copy to /usr/bin or where ever you want/need to place it. 
 
 Here is watirs site http://watirwebdriver.com/chrome/
 
