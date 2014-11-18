@@ -16,7 +16,7 @@ What that does is it tells PAM when it authenticates against the gdm daemon to a
 
 googles GeoLocation API for Ruby https://developers.google.com/api-client-library/ruby/start/get_started
 
-I am renting a web space from a host and have built a page to log geolocation. It is very accurate. The page is a mix of HTML5, JavaScript and PHP. The location is grabbed with HTML and JS and the data is passed to the php file. This is the file http://trutechdesigns.com/ I have included the HTML%/JS file as well as the PHP script. 
+I am renting a web space from a host and have built a page to log geolocation. It is very accurate. The page is a mix of HTML5, JavaScript and PHP. The location is grabbed with HTML and JS and the data is passed to the php file. This is the site http://trutechdesigns.com/ I have included the HTML/JS file as well as the PHP script. 
 
 The Ruby program opens your broswer with my site and your location is emailed within seconds. The Ruby program then closes the tab. So you have no clue that this just happened.
 
