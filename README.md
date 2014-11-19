@@ -40,5 +40,8 @@ as stated above then link the shared object libraries with the following command
 
 .SO linker command for a 64 bit system.
         sudo ln -sf /lib/x86_64-linux-gnu/libudev.so.1 /lib/x86_64-linux-gnu/libudev.so.0
+   
+WARNING!!        
+This pertains to the bash wrapper for the Ruby ImageCapture script. You need to create a script in your /etc/init/d/ dir and add it to your default run levels(Applies if you use systemv init. Otherwise read the Doc for systemd). The script that resides in the init.d dir should point to this wrapper. Be conscious of the fact that enabling this will prevent you from rebooting. Either disable or build a function automate this for you. Add it here.        
 
 To be continued .....
