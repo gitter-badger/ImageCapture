@@ -8,4 +8,8 @@
 
 4) Reroute login to guest desktop. Through Ruby Gnome dbus API or gdm greeter source mod.
 
-5)...
+5) Disable program if used image and location is entered.
+
+6) Remove password for Guest user
+
+7) ...
