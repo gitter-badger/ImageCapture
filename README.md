@@ -1,5 +1,6 @@
 ImageCapture.rb
 ===============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/amboxer21/ImageCapture?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # JUST A ROUGH DRAFT. WILL FIX UP... EVENTUALLY!
 
